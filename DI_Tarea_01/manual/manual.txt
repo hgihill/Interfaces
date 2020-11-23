@@ -1,0 +1,23 @@
+Manual de uso
+
+Este programa permite crear archivos de texto y modificar sus características.
+
+- Dispone de un panel en el que podrá escribir el texto que desee.
+
+- En la parte superior de la ventana dispone de 3 pestañas:
+
+1. Archivo permite tarabajar con su documento:
+	- Abrir (ctrl + A): Abre documentos que hayan sido creados  
+	- Guardar como (ctrl + G): Guarda un documento por primera vez 
+	- Guardar (ctrl + S): Sobreescribir un documento y guardarlo  
+	- Salir (ctrl + Q): Salir del programa 
+		
+2. Estilo permite modificar las características de estilo:
+	- Colores: Permite modificar el color del texto y el fondo
+	- Fuente: Permite modificar estilo del texto, tamaño y fuente
+		
+3. Ayuda muestra información adicional:
+	- Ayuda: Accede a este manual
+	- Acerca de...: Información sobre la aplicación 
+	
+Para salir confirme que desea salir en la ventana emergente.
